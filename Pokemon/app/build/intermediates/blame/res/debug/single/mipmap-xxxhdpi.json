@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
