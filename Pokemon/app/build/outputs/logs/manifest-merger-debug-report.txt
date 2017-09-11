@@ -16,6 +16,7 @@ ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/
 application
 ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:5:5-19:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/labredes05/.android/build-cache/ddfec129c4fae4a96cc2564963c226a2bea4979b/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/labredes05/.android/build-cache/b2a4e86a235ad50b053b8c6993c7ec8b3d32c7e5/output/AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -45,6 +46,7 @@ ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/
 uses-sdk
 INJECTED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/labredes05/.android/build-cache/ddfec129c4fae4a96cc2564963c226a2bea4979b/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] /Users/labredes05/.android/build-cache/b2a4e86a235ad50b053b8c6993c7ec8b3d32c7e5/output/AndroidManifest.xml:7:5-43
 	android:targetSdkVersion
 		INJECTED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
