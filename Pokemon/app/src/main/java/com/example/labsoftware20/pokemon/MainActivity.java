@@ -29,7 +29,24 @@ public class MainActivity extends Activity {
                     @Override
                     public void onResponse(JSONObject response) {
 
-                        mTxtDisplay.setText("Response: " + response.toString());
+                        try {
+                            nombre = response.getString("name");
+                        } catch (JSONException e) {
+                            e.printStackTrace();
+                        }
+                        JSONObject imagen = null;
+                        try {
+                            imagen = response.getJSONObject("sprites");
+                        } catch (JSONException e) {
+                            e.printStackTrace();
+                        }
+                        try {
+                            mobile = imagen.getString("back_default");
+                        } catch (JSONException e) {
+                            e.printStackTrace();
+                        }
+
+                        mTxtDisplay.setText("Response: " + mobile);
                     }
                 }, new Response.ErrorListener() {
 
