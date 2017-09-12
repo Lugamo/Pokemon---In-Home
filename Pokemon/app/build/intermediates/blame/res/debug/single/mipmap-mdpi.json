@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
         "source": "/Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },

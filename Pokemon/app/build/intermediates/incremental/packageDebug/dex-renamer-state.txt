@@ -1,0 +1,7 @@
+#Tue Sep 12 10:13:42 COT 2017
+base.0=/home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2039a60ebb9d7865691fb150b8fda7f62bbacbde
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0fb45f395242640fdaedda9b8512c6b95d730542/classes.dex
+base.1=/home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0fb45f395242640fdaedda9b8512c6b95d730542
+file.0=/home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2039a60ebb9d7865691fb150b8fda7f62bbacbde/classes.dex

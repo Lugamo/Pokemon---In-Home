@@ -471,6 +471,7 @@ containing a value of this type.
         public static final int parent=0x7f070000;
         public static final int spread=0x7f070001;
         public static final int spread_inside=0x7f070004;
+        public static final int txtDisplay=0x7f070009;
         public static final int wrap=0x7f070002;
     }
     public static final class layout {

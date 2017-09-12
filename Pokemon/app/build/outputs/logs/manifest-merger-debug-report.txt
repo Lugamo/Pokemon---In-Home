@@ -1,55 +1,59 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:3:5-48
-		INJECTED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
+		ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/labredes05/.android/build-cache/ddfec129c4fae4a96cc2564963c226a2bea4979b/output/AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.0.0] /Users/labredes05/.android/build-cache/b2a4e86a235ad50b053b8c6993c7ec8b3d32c7e5/output/AndroidManifest.xml:9:5-20
+ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/eduardo/.android/build-cache/51937191305e9231064c05a50d5f10ded03b93a0/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/eduardo/.android/build-cache/bc6f0653d17fb1fe8e1f2264f8a105290449de7e/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:10:9-41
 	android:supportsRtl
-		ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:12:9-35
 	android:roundIcon
-		ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:11:9-54
 	android:allowBackup
-		ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:8:9-35
 	android:icon
-		ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:9:9-43
 	android:theme
-		ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:13:9-40
 activity#com.example.labsoftware20.pokemon.MainActivity
-ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:14:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/labredes05/.android/build-cache/ddfec129c4fae4a96cc2564963c226a2bea4979b/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.volley:volley:1.0.0] /Users/labredes05/.android/build-cache/b2a4e86a235ad50b053b8c6993c7ec8b3d32c7e5/output/AndroidManifest.xml:7:5-43
+INJECTED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/eduardo/.android/build-cache/51937191305e9231064c05a50d5f10ded03b93a0/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] /home/eduardo/.android/build-cache/bc6f0653d17fb1fe8e1f2264f8a105290449de7e/output/AndroidManifest.xml:7:5-43
 	android:targetSdkVersion
-		INJECTED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/labredes05/Documents/Lugamo_Android/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/src/main/AndroidManifest.xml

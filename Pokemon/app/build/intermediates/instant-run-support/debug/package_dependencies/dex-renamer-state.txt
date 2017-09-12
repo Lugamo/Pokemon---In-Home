@@ -1,0 +1,10 @@
+#Tue Sep 12 10:13:18 COT 2017
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_d5929f954595a30cfb5e6fd56d5c15c67957c247
+base.1=/home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9eeda359c56ab12a0a7bdfeba198bcdbe3046281
+base.0=/home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a73f5c56368c60b5cd33372221ccb84c9c55ab6
+file.2=/home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_d5929f954595a30cfb5e6fd56d5c15c67957c247/classes.dex
+file.1=/home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9eeda359c56ab12a0a7bdfeba198bcdbe3046281/classes.dex
+file.0=/home/eduardo/StudioProjects/Pokemon---In-Home/Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a73f5c56368c60b5cd33372221ccb84c9c55ab6/classes.dex
